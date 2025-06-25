@@ -1,16 +1,4 @@
-// import logo from './logo.svg';
-// import './App.css';
-// import IncidentDashboard from './components/IncidentDashboard';
 
-// function App() {
-//   return (
-//     <div className="App">
-//       <IncidentDashboard />
-//     </div>
-//   );
-// }
-
-// export default App;
 
 
 
